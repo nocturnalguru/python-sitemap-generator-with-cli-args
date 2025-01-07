@@ -1,0 +1,4 @@
+beautifulsoup4
+setuptools
+var_dump
+lxml
